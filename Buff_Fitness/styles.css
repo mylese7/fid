@@ -1,0 +1,33 @@
+body
+{
+    font-family: sans-serif;
+  margin: 0;
+  background-color: #111;
+  color: white;
+}
+header{font-family: "Oswald", system-ui;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 5px;
+  padding: 30px;
+  background-color: black;
+  color: red;
+}
+ul {
+ list-style-type: none;
+ margin: 10px;
+ padding: 5px;
+}
+nav li{display: inline;
+    margin:0 80px;}
+    h2{color:red;
+      font-size:2rem ;  
+    }
+    a:link,
+			a:visited{color:rgb(0, 255, 17);}
+			a:hover{color:white;}
+    p{margin-left: 10px;
+
+    }
+    li{text-indent: 5px;}
+    h3{color:yellow;}
